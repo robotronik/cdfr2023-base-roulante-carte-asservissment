@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "A3930")(type "Legacy")(uri "${KIPRJMOD}/lib/A3930KJPTR-T.lib")(options "")(descr ""))
+)

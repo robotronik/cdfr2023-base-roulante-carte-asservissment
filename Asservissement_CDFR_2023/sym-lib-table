@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "A3930")(type "Legacy")(uri "${KIPRJMOD}/lib/A3930KJPTR-T.lib")(options "")(descr ""))
+  (lib (name "A3930")(type "Legacy")(uri "${KIPRJMOD}/lib/A3930KJPTR-T.lib")(options "")(descr "")(disabled))
+  (lib (name "a3930kjptr-t")(type "KiCad")(uri "${KIPRJMOD}/lib/a3930kjptr-t.kicad_sym")(options "")(descr ""))
 )

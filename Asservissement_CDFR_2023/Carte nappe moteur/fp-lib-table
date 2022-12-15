@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Connecteur")(type "KiCad")(uri "${KIPRJMOD}/Conn.pretty")(options "")(descr "")(disabled))
+  (lib (name "Conn moteur nappe")(type "KiCad")(uri "${KIPRJMOD}/lib/maxon.pretty")(options "")(descr ""))
+  (lib (name "Conn mot block")(type "KiCad")(uri "${KIPRJMOD}/TerminalBlockBend.pretty")(options "")(descr ""))
+)
